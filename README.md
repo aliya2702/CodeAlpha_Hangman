@@ -1,4 +1,4 @@
-# CodeAlpha-_Hangman
+# CodeAlpha_Hangman
 # Hangman Game using python
 
 A simple Python Hangman game created as part of the CodeAlpha Internship.
